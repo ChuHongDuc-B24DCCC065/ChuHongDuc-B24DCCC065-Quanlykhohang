@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Inventory Dashboard Palette -->
+    <!-- Primary Navy -->
+    <color name="primary">#243B53</color>
+    <color name="primary_dark">#102A43</color>
+    <color name="primary_light">#334E68</color>
+    <color name="navy">#243B53</color>
+    <color name="navy_dark">#102A43</color>
+    <color name="navy_light">#486581</color>
+    <color name="navy_soft">#F0F4F8</color>
+
+    <!-- Secondary Mint / Teal -->
+    <color name="secondary">#36B3A8</color>
+    <color name="mint">#36B3A8</color>
+    <color name="mint_dark">#289E93</color>
+    <color name="mint_light">#E6F7F5</color>
+    <color name="accent">#36B3A8</color>
+
+    <!-- App Background & Surfaces -->
+    <color name="bg_light">#F4F7FA</color>
+    <color name="app_bg">#F4F7FA</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F8FAFC</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#243041</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_muted">#9AA5B1</color>
+    <color name="text_hint">#9AA5B1</color>
+
+    <!-- Borders & Dividers -->
+    <color name="border">#DCE3EA</color>
+    <color name="border_light">#E9EFF5</color>
+    <color name="divider">#E5E9F0</color>
+
+    <!-- Semantic States -->
+    <color name="warning">#F0A44B</color>
+    <color name="warning_dark">#D9822B</color>
+    <color name="warning_light">#FEF3E2</color>
+    <color name="bg_warning_light">#FEF3E2</color>
+
+    <color name="danger">#D95757</color>
+    <color name="danger_dark">#BA3C3C</color>
+    <color name="danger_light">#FDEDED</color>
+    <color name="bg_error_light">#FDEDED</color>
+    <color name="error">#D95757</color>
+
+    <color name="success">#39966F</color>
+    <color name="success_dark">#277855</color>
+    <color name="success_light">#EAF6F0</color>
+</resources>
